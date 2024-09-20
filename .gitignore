@@ -1,1 +1,5 @@
 .env
+channel_data.json
+dump.sql
+search_cli
+nixpkgs.db
